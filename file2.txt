@@ -1,0 +1,2 @@
+this will also be shown in the same diff block
+because it contains the term `test`

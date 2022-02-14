@@ -9,3 +9,4 @@ but this one doesn't
 so there should only be a couple of context lines
 surrounding the two lines that contain the searched term
 and our diff payload should not include this line
+and now I added a new line that contains `test`
