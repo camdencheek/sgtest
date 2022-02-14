@@ -1,0 +1,11 @@
+this is a big file
+that contains a bunch of new lines
+and we don't want to return all of them
+we only want to return the ones that match `test`
+like the line above this one
+and the line below this one
+because this line contains `test`
+but this one doesn't
+so there should only be a couple of context lines
+surrounding the two lines that contain the searched term
+and our diff payload should not include this line
